@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **AhmedSaif2/AhmedSaif2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+  [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSaif2)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSaif2)](https://github.com/anuraghazra/github-readme-stats)
