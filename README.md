@@ -8,7 +8,6 @@
 
 - 🎓 I'm a fresh Computer Science graduate from Ain Shams University
 - 🌱 I’m currently learning Backend development using .Net
-- 👯 I’m looking to contribute to open source projects
 - 📫 How to reach me: ahmedmohammedsaif1@gmail.com
 - ⚡ Fun fact: I like 💻 Coding, 📖 Reading, and 🎮 Gaming
 
